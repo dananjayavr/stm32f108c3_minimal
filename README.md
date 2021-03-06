@@ -1,0 +1,1 @@
+stm32f108c3_minimal
